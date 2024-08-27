@@ -1,2 +1,2 @@
 # Arduino-Projects
-Repo for my arduino projects
+Currently empty, but will start doing more projects soon
