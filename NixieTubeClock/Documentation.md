@@ -10,4 +10,4 @@ First steps I started with creating a PCB which was essentially GreatScott's PCB
 
 After Completing the Schematic I then started with designing the PCB and placing them in the correct spots.
 ![Image of unfinished PCB](Schematics&Pictures/PCBDesign.png)
-Here is the raw PCB without traces or copper layers added. 
+Here is the raw PCB without traces, copper layers added, and correct measurements or placement for the parts. 
