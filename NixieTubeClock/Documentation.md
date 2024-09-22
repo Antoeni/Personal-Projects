@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=ObgmVNV1Kfg
 
 First steps I started with creating a PCB which was essentially GreatScott's PCB but then retrofitted so that it fits with the parts that I have at hand.
 ![Image of the Schematic](Schematics&Pictures/Schematic_Nixie-Tube_2024-09-21.png)
+
+After Completing the Schematic I then started with designing the PCB and placing them in the correct spots.
+![Image of unfinished PCB](Schematics&Pictures/PCBDesign.png)
