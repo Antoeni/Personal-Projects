@@ -16,4 +16,7 @@ Here is the raw PCB without traces, copper layers added, and correct measurement
 
 This is what the PCB looks like after I have routed all of the traces.
 ![Image of routed PCB](Schematics&Pictures/RoutedPcb.png)
+
+After which I then added the copper layers for GND net and 5V net
+![Image of routed PCB with copper layers](Schematics&Pictures/RoutedPcb.png)
 ## Building the Physical Circuit
