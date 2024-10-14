@@ -14,4 +14,6 @@ After Completing the Schematic I then started with designing the PCB and placing
 ![Image of unfinished PCB](Schematics&Pictures/PCBDesign.png)
 Here is the raw PCB without traces, copper layers added, and correct measurements or placement for the parts. 
 
+This is what the PCB looks like after I have routed all of the traces.
+![Image of routed PCB](Schematics&Pictures/RoutedPcb.png)
 ## Building the Physical Circuit
