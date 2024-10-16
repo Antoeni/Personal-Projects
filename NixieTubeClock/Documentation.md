@@ -20,3 +20,9 @@ This is what the PCB looks like after I have routed all of the traces.
 After which I then added the copper layers for GND net and 5V net
 ![Image of routed PCB with copper layers](Schematics&Pictures/Copperlayered.png)
 ## Building the Physical Circuit
+
+I then started to test the components to make sure they work. In this picture I built a simple circuit to test the bulb by using my step up voltage converter to bring my 12V DC power supply to 170V. I also soldered on a 10K resistor as the operating voltage of the bulb needs to be a minimum 120V while the firing voltage is 170V. The resistor there is to save some power, as I don't constantly want to use 170V to save on power.  
+![Image of bulbs powered](Schematics&Pictures/5.png) 
+![Image of bulbs powered](Schematics&Pictures/6.png)
+![Image of bulbs powered](Schematics&Pictures/7.png)
+
