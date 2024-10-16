@@ -26,3 +26,6 @@ I then started to test the components to make sure they work. In this picture I 
 ![Image of bulbs powered](Schematics&Pictures/6.png)
 ![Image of bulbs powered](Schematics&Pictures/7.png)
 
+I also tested to see if the K155ID1 driver ICs were working, which I hooked up my arduino to the IC, then programmed it to test if selecting the number 1 worked, which it did as I saw that on that pin it drove the voltage down. The way that I can select numbers is based off of a truth table as seen below.
+
+![Image of IC truth table](Schematics&Pictures/truth.png)
