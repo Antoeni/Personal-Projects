@@ -9,7 +9,6 @@ https://www.youtube.com/watch?v=ObgmVNV1Kfg
 ## Process of Designing
 First steps I started with creating a PCB which was essentially GreatScott's PCB but then retrofitted so that it fits with the parts that I have at hand.
 ![Image of the Schematic](Schematics&Pictures/Schematic_Nixie-Tube_2024-09-21.png)
-
 From this original schematic there were a couple changes that I had to make while designing the PCB. I had changed a couple of the outputs for the IC drivers so that routing for the PCB was a lot easier, and I had also changed the resistors for the nixie tubes to be 20K ohms, so that it can sustain the 2.5mA as 10K actually provides it way too much current. Also in the final design, I decided for better visability, I connected the filtering capacitors to ground and to the input/output just so that following the schematic would be easier.
 
 After Completing the Schematic I then started with designing the PCB and placing them in the correct spots.
