@@ -1,1 +1,3 @@
-# This personal project is going to be for me to learn how to write drivers, for now I want to focus on writing I2C, Uart, SPI, and USB communication drivers 
+# Writing Drivers
+
+This personal project is for me to learn how to write drivers, I want to learn for now communication protocol drivers like I2C, Uart, SPI, and USB
