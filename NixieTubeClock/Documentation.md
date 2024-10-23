@@ -37,7 +37,7 @@ Then after I received the PCB from JLCPCB, I started to solder on all of the com
 
 Here you can see how I soldered on the capacitors, the resistors, the voltage regulator. the 12V power supply, and the pins to the arduino. The capacitors are way out of place because I ended up ordering the wrong capacitors, which I have the 1206 capacitors while my schematic has 0603 capacitors. I tested out the voltage levels to ensure that I am getting the correct voltages across the capacitors, and the 12V regulator. I then started to solder everything else on the board
 
-![Image of finished product](Schematics&Pictures/Circuit Built.jpg)
+![Image of finished product](Schematics&Pictures/CircuitBuilt.jpg)
 
 Here is the front side of the PCB, which I have finished soldering on all of the other components, which then I uploaded the code for reading time and displaying which it came out perfectly. I was a little concerned about the fittings of the holes in my PCB, which next time I work on a PCB I will definitely make sure the clearance isn't so close for things like wire gauges. Other than that I used sockets for the bulbs so that it has a lot more clearance, which now I can call this product almost complete.
 
