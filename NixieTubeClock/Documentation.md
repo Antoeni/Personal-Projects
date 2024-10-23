@@ -30,3 +30,33 @@ I then started to test the components to make sure they work. In this picture I 
 I also tested to see if the K155ID1 driver ICs were working, which I hooked up my arduino to the IC, then programmed it to test if selecting the number 1 worked, which it did as I saw that on that pin it drove the voltage down. The way that I can select numbers is based off of a truth table as seen below.
 
 ![Image of IC truth table](Schematics&Pictures/truth.png)
+
+Then after I received the PCB from JLCPCB, I started to solder on all of the components.
+
+![Image of soldering the PCB](Schematics&Pictures/Building.jpg)
+
+Here you can see how I soldered on the capacitors, the resistors, the voltage regulator. the 12V power supply, and the pins to the arduino. The capacitors are way out of place because I ended up ordering the wrong capacitors, which I have the 1206 capacitors while my schematic has 0603 capacitors. I tested out the voltage levels to ensure that I am getting the correct voltages across the capacitors, and the 12V regulator. I then started to solder everything else on the board
+
+![Image of finished product](Schematics&Pictures/Circuit Built.jpg)
+
+Here is the front side of the PCB, which I have finished soldering on all of the other components, which then I uploaded the code for reading time and displaying which it came out perfectly. I was a little concerned about the fittings of the holes in my PCB, which next time I work on a PCB I will definitely make sure the clearance isn't so close for things like wire gauges. Other than that I used sockets for the bulbs so that it has a lot more clearance, which now I can call this product almost complete.
+
+## Finished Product
+
+After soldering and testsing the PCB, I then began with a housing for the clock, then I will call this complete.
+
+
+## List of items used
+K155ID1 IC nixie tube drivers
+IN-12A Nixie Tubes
+Arduino Pro Mini
+DS1307 RTC 
+LM7805 Voltage Regulator
+1206 SMD capacitors
+20K Ohm Resistors
+NCH6100HV step-up voltage converter
+12V DC power supply
+
+
+
+
