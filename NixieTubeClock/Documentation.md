@@ -43,7 +43,7 @@ Here is the front side of the PCB, which I have finished soldering on all of the
 
 ## Finished Product
 
-After soldering and testsing the PCB, I then began with a housing for the clock, then I will call this complete.
+After soldering and testsing the PCB, I then began with a housing for the clock. After the housing is built, the project is now complete.
 
 
 ## List of items used
