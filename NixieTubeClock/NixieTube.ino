@@ -39,7 +39,7 @@ void TimeSet(int digit, int time){//This portion of the code is coming from Grea
     case 0:
     digitalWrite(A[digit], LOW);
     digitalWrite(B[digit], LOW);
-    digitalWrite(D[digit], LOW);
+    digitalWrite(C[digit], LOW);
     digitalWrite(D[digit], LOW);
     break;
     case 1:
