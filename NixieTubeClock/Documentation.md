@@ -47,14 +47,14 @@ After soldering and testsing the PCB, I then began with a housing for the clock,
 
 
 ## List of items used
-K155ID1 IC nixie tube drivers
-IN-12A Nixie Tubes
-Arduino Pro Mini
-DS1307 RTC 
-LM7805 Voltage Regulator
-1206 SMD capacitors
-20K Ohm Resistors
-NCH6100HV step-up voltage converter
+K155ID1 IC nixie tube drivers <br />
+IN-12A Nixie Tubes <br />
+Arduino Pro Mini <br />
+DS1307 RTC <br />
+LM7805 Voltage Regulator <br />
+1206 SMD capacitors <br />
+20K Ohm Resistors <br />
+NCH6100HV step-up voltage converter <br />
 12V DC power supply
 
 
